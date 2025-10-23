@@ -1,0 +1,28 @@
+.imx-provide-trans {
+  transition: height 0.2s ease;
+  height: 0;
+  overflow: hidden;
+}
+.imx-provide-trans--divider {
+  margin: 7px 0;
+  padding-top: 1px;
+  border-width: 0px;
+  border-style: initial;
+  border-color: initial;
+  border-image: initial;
+  background: linear-gradient(to right, transparent, rgb(208, 208, 213), transparent);
+}
+.imx-provide-trans-content {
+  width: 100%;
+  overflow-wrap: break-word;
+  display: inline-block;
+  margin-bottom: 10px;
+  color: var(--provide-primary-font-color);
+  font-size: var(--provide-primary-font-size);
+  line-height: 1;
+}
+
+.imx-provide-brand--title {
+  color: var(--WDS-accent);
+  font-weight: bold;
+}

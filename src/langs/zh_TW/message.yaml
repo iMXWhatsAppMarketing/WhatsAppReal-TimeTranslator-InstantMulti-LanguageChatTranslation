@@ -1,0 +1,6 @@
+server:
+  translateError: 翻譯失敗，請重試
+  installReloadContent: |-
+    連接WhatsApp失敗，請刷新頁面重試。
+    否則，插件無法正常運行。
+  installReloadHandle: 重新連接

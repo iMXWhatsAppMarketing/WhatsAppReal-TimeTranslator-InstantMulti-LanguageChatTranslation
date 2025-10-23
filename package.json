@@ -1,0 +1,34 @@
+{
+  "name": "chrome-plugin-vue",
+  "private": true,
+  "version": "1.3.0",
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/download-icons.js dev",
+    "dev": "vite serve --mode dev",
+    "prebuild": "node scripts/download-icons.js dev",
+    "build": "vite build --mode dev",
+    "preview": "vite preview",
+    "prettier": "prettier --write ."
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "lodash": "^4.17.21",
+    "vue": "^3.5.13",
+    "vue-i18n": "^11.1.7",
+    "vue-router": "^4.5.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0-beta.33",
+    "@modyfi/vite-plugin-yaml": "^1.1.1",
+    "@vicons/carbon": "^0.13.0",
+    "@vitejs/plugin-vue": "^5.2.3",
+    "naive-ui": "^2.41.1",
+    "prettier": "^3.6.2",
+    "sass": "^1.89.2",
+    "unplugin-auto-import": "^19.3.0",
+    "unplugin-vue-components": "^28.7.0",
+    "vite": "^6.3.5"
+  }
+}

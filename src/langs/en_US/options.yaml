@@ -1,0 +1,6 @@
+translateConfig: Translation configuration
+contentSettings: Content Settings
+translateMode: Translation Mode
+shortcutKey: Set Shortcut Key
+shortcutKeyTip: Press shortcut key in input box to trigger manual translation
+proxyError: Translation Failure Interception

@@ -1,0 +1,6 @@
+translateConfig: 翻译配置
+contentSettings: 内容设置
+translateMode: 翻译模式
+shortcutKey: 设置快捷键
+shortcutKeyTip: 在输入框按下快捷键触发手动翻译
+proxyError: 翻译失败拦截

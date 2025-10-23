@@ -1,0 +1,6 @@
+server:
+  translateError: Translation failed, please try again
+  installReloadContent: |-
+    Connecting to WhatsApp failed, please refresh the page and try again. 
+    Otherwise, the plugin will not work properly.
+  installReloadHandle: Reconnect
