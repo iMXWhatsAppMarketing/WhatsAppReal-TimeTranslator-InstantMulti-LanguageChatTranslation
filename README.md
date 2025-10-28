@@ -20,6 +20,8 @@ Three Key Advantages—you can trust
 
 ✅Fully Customizable: Add your own glossaries for e-commerce, crypto, gaming, and more—translations tailored to your industry.
 
+⭐️Installation address：https://chromewebstore.google.com/detail/whatsappreal-timetranslat/lnahamccbmdhncdkphgfhbjambmpihbc?hl=zh-CN&utm_source=ext_sidebar
+
 ![1](https://github.com/user-attachments/assets/a9c73cc9-24a8-456e-b6e2-aee69173b6d6)
 ![2](https://github.com/user-attachments/assets/4f37385c-5461-4e78-a704-07a271a10b7e)
 ![3](https://github.com/user-attachments/assets/62b757f4-a6cd-47ac-b73f-aff868c75732)
@@ -31,5 +33,6 @@ Three Key Advantages—you can trust
 🎁 New users can enjoy 3 days free access with 50 ports, 15 dedicated cloud IPs, and a $5 account filter. Experience advanced WhatsApp marketing features such as bulk operations, account nurturing, group messaging, and precise lead capture—all in one platform.
 
 👉 Claim Benefits： https://007tg.com/ccs/imx_github
+
 👉 Official Website：	https://007tg.com/ccs/imx_github01   
 
