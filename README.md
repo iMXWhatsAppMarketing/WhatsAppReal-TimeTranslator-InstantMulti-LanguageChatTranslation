@@ -20,13 +20,7 @@ Three Key Advantages—you can trust
 
 ✅Fully Customizable: Add your own glossaries for e-commerce, crypto, gaming, and more—translations tailored to your industry.
 
-⭐️Installation address：https://chromewebstore.google.com/detail/whatsappreal-timetranslat/lnahamccbmdhncdkphgfhbjambmpihbc?hl=zh-CN&utm_source=ext_sidebar
-
-![1](https://github.com/user-attachments/assets/a9c73cc9-24a8-456e-b6e2-aee69173b6d6)
-![2](https://github.com/user-attachments/assets/4f37385c-5461-4e78-a704-07a271a10b7e)
-![3](https://github.com/user-attachments/assets/62b757f4-a6cd-47ac-b73f-aff868c75732)
-![4](https://github.com/user-attachments/assets/178ad6ef-bc99-4d24-a2a5-1aec996da45c)
-![5](https://github.com/user-attachments/assets/447fb705-6d1a-4401-a1b5-aa0a9e723ce3)
+⭐️Installation Address：https://chromewebstore.google.com/detail/whatsappreal-timetranslat/lnahamccbmdhncdkphgfhbjambmpihbc?hl=zh-CN&utm_source=ext_sidebar
 
 👋 iMX is a powerful WhatsApp lead generation and customer engagement tool developed by 007TG. It helps you accelerate customer growth while minimizing acquisition costs.
 
@@ -35,4 +29,10 @@ Three Key Advantages—you can trust
 👉 Claim Benefits： https://007tg.com/ccs/imx_github
 
 👉 Official Website：	https://007tg.com/ccs/imx_github01   
+
+![1](https://github.com/user-attachments/assets/a9c73cc9-24a8-456e-b6e2-aee69173b6d6)
+![2](https://github.com/user-attachments/assets/4f37385c-5461-4e78-a704-07a271a10b7e)
+![3](https://github.com/user-attachments/assets/62b757f4-a6cd-47ac-b73f-aff868c75732)
+![4](https://github.com/user-attachments/assets/178ad6ef-bc99-4d24-a2a5-1aec996da45c)
+![5](https://github.com/user-attachments/assets/447fb705-6d1a-4401-a1b5-aa0a9e723ce3)
 
