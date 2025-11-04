@@ -1,9 +1,6 @@
 # README.md
 
 - en [英文](README.md)
-# README.md
-
-- zh_cn [简体中文](README_CN.md)
 
 🔥WhatsApp实时翻译插件 – 一款免费易用的扩展程序，可消除WhatsApp聊天中的语言障碍！在WhatsApp网页版上使用这款插件，所有收发消息都会自动翻译（无论原语言是什么），因此您和您的联系人始终可以看到以您首选语言显示的聊天内容。
 
