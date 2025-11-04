@@ -1,3 +1,7 @@
+# README.md
+
+- zh_cn [简体中文](README_CN.md)
+
 🔥The WhatsApp Real-Time – a free, easy-to-use extension that removes language barriers in your WhatsApp chats!
 With this plugin on WhatsApp Web, all incoming and outgoing messages are auto-translated—whatever the source language—so you and your contacts always see chats in your preferred languages.
 
@@ -9,21 +13,21 @@ Supports 100+ languages—from English and Spanish to Arabic, Vietnamese, and do
 
 Instant Auto-Translation—Super Simple
 
-即时自动翻译 – 超级简单易用 
+即时自动翻译 – 超级简单易用
 
 Incoming Auto-Translate: Automatically detects and translates incoming messages in real time, displaying original and translated text side by side.
 Outgoing Auto-Translate: Type in any language and the recipient receives the translated text instantly.  Built-in “failed translation interceptor” prevents untranslated text from being sent if a translation error occurs.
 
-输入自动翻译：自动实时检测并翻译输入消息，并排显示原文和译文。 
+输入自动翻译：自动实时检测并翻译输入消息，并排显示原文和译文。
 传出自动翻译：输入任何语言，收件人都会立即收到译文。内置的“翻译失败拦截器”可在出现翻译错误时阻止发送未翻译的文本。
 
 Always Free—Works Even Better with iMX-WS Cloud
 
-永久免费 – 与 iMX-WS Cloud 配合使用效果更佳 
+永久免费 – 与 iMX-WS Cloud 配合使用效果更佳
 
 The extension is 100% free! When paired with iMX-WS Cloud, manage multiple accounts, auto-reply with translation, review chat history easily—perfect for seamless cross-border business.
 
-该扩展程序 100% 免费！与 iMX-WS云控配合使用，可管理多个帐户、自动回复翻译、轻松查看聊天记录，非常适合跨境业务。 
+该扩展程序 100% 免费！与 iMX-WS云控配合使用，可管理多个帐户、自动回复翻译、轻松查看聊天记录，非常适合跨境业务。
 
 Three Key Advantages—you can trust
 
@@ -44,16 +48,16 @@ Three Key Advantages—you can trust
 ⭐️Installation Address：https://chromewebstore.google.com/detail/whatsappreal-timetranslat/lnahamccbmdhncdkphgfhbjambmpihbc?hl=zh-CN&utm_source=ext_sidebar
 
 👋 iMX is a powerful WhatsApp lead generation and customer engagement tool developed by 007TG. It helps you accelerate customer growth while minimizing acquisition costs.
-   
-   iMX是007TG旗下的一款基于WhatsApp快速获客及客服营销工具，帮助您以最低的获客成本实现客户流量快速增长
-   
+
+iMX是007TG旗下的一款基于WhatsApp快速获客及客服营销工具，帮助您以最低的获客成本实现客户流量快速增长
+
 🎁 New users can enjoy 3 days free access with 50 ports, 15 dedicated cloud IPs, and a $5 account filter. Experience advanced WhatsApp marketing features such as bulk operations, account nurturing, group messaging, and precise lead capture—all in one platform.
-   
-   iMX新用户免费领取3天50端口+赠送15条云控专用IP+$5筛号，免费体验账号批量操作+养号、WS群发、精准接粉等WS私域营销功能，各种玩法等您来体验
-   
+
+iMX新用户免费领取3天50端口+赠送15条云控专用IP+$5筛号，免费体验账号批量操作+养号、WS群发、精准接粉等WS私域营销功能，各种玩法等您来体验
+
 👉 Claim Benefits： https://007tg.com/ccs/imx_github
 
-👉 Official Website：	https://007tg.com/ccs/imx_github01   
+👉 Official Website：	https://007tg.com/ccs/imx_github01
 
 ![1](https://github.com/user-attachments/assets/a9c73cc9-24a8-456e-b6e2-aee69173b6d6)
 ![2](https://github.com/user-attachments/assets/4f37385c-5461-4e78-a704-07a271a10b7e)
