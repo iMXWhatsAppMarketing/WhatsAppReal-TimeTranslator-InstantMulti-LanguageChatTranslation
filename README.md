@@ -1,6 +1,6 @@
 # README.md
 
-- zh_cn [简体中文](README_CN.md)
+- zh_cn [简体中文](README_CN.md) WhatsApp翻译
 
 🔥The WhatsApp Real-Time – a free, easy-to-use extension that removes language barriers in your WhatsApp chats!
 With this plugin on WhatsApp Web, all incoming and outgoing messages are auto-translated—whatever the source language—so you and your contacts always see chats in your preferred languages.
